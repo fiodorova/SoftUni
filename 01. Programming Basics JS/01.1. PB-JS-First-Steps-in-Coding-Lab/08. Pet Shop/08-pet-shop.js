@@ -3,13 +3,10 @@ function petShop(input) {
     let catFood = Number(input[1]);
     let dogPrice = dogFood * 2.50;
     let catPrice = catFood * 4;
-    let sum = dogPrice + catPrice
+    let sum = dogPrice + catPrice;
 
-
-    console.log(`${sum} lv.`)
-
+    console.log(`${sum} lv.`);
 }
 
 petShop(["5 ",
-"4 "]
-)
+"4 "])
