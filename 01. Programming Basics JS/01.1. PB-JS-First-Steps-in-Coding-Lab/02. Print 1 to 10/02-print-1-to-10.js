@@ -9,7 +9,6 @@ function printNum() {
     console.log("8");
     console.log("9");
     console.log("10");
-
-
 }
+
  printNum();
