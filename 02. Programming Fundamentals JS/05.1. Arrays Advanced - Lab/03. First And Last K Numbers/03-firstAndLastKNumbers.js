@@ -9,8 +9,7 @@ function firstAndLastKNumbers(arr){
 }
 
 firstAndLastKNumbers([2, 
-    7, 8, 9]
-    )
+    7, 8, 9])
 firstAndLastKNumbers([3,
-    6, 7, 8, 9]   
-    )
+    6, 7, 8, 9])
+
