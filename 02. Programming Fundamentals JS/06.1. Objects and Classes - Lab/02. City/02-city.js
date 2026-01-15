@@ -21,3 +21,4 @@ cityInfo({
     country: "Bulgaria",
     postCode: "4000"
 })
+
